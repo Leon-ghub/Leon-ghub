@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Goennjamin
+- 👋 Hi, I’m Leon
 - 👀 I’m interested in Gaming
 - 🌱 I’m currently learning C++ (sadly)
 - 💞️ I’m looking to collaborate on everything that helps me to finish this course
