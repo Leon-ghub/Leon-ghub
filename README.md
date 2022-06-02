@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Leon
-- 👀 I’m interested in Gaming
 - 🌱 I’m currently learning C++ and Java
-- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me Discord: Leøn#3825
 
 <!---
