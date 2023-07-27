@@ -1,4 +1,5 @@
-- 📫 How to reach me: Discord: leon_64
+- 📫 How to reach me:
+- Discord: leon_64
 
 <!---
 Goennjamin/Goennjamin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
